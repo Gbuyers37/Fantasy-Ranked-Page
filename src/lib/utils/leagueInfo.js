@@ -32,7 +32,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "League Commissioner and starter of the Fantasy Ranked league.",
-       "photo": "IMG_7074.JPG", // square ratio recommended (no larger than 500x500)
+       "photo": "Gavin-2.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2025, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
